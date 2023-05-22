@@ -1,0 +1,33 @@
+header {
+    background-color: #C70023;
+    color: white;
+    font-size: x-large;
+    text-align: center;
+    padding: 5px;
+
+    }
+
+footer {
+    background-color: #C70023;
+    color: white;
+    font-size: x-large;
+    text-align: center;
+    padding: 5px;
+}
+
+h1 {
+    font-weight: bold;
+    line-height: 90%;
+  }
+
+h2 {
+    font-size: 16pt;
+    line-height: 80%;
+    font-weight: bold;
+}
+
+p.small{
+    text-align: right;
+    font-size: 12pt;
+}
+
